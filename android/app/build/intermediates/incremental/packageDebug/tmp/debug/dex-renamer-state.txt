@@ -1,0 +1,4 @@
+#Fri Dec 06 11:52:40 ART 2019
+base.0=/home/gonz4/asyncRedux/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
